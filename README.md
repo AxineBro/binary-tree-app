@@ -88,7 +88,7 @@ BinaryTreeApp — это десктопное приложение на C# (.NET
 
 ```bash
 
-git clone https://github.com/ВашНик/BinaryTreeApp.git
+git clone https://github.com/AxineBro/BinaryTreeApp.git
 
 cd BinaryTreeApp
 
@@ -175,11 +175,6 @@ MIT License
 
 
 - **Axine**  
-
-&nbsp; Amsterdam, North Holland, NL  
-
-&nbsp; 2026
-
 
 
 Спасибо за интерес к проекту!  
